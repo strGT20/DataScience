@@ -1,2 +1,2 @@
-# DataScience
-buat repo notebook2 ds
+# Proyek Analisis Data untuk Prediksi Banjir
+Latihan Regresi
